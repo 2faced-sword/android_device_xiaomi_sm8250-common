@@ -26,6 +26,13 @@ persist.dbg.volte_avail_ovr=1
 persist.dbg.vt_avail_ovr=1
 persist.dbg.wfc_avail_ovr=1
 
+# Infinity Defintions
+ro.infinity.soc=Snapdragon 865 (7nm)
+ro.infinity.battery=5000 mAh
+ro.infinity.display=1080 x 2400, 144 Hz
+ro.infinity.camera=64MP + 13MP + 5MP
+ro.product.marketname=Mi 10T 5G
+
 # Netflix
 ro.netflix.bsp_rev=Q8250-19134-1
 
